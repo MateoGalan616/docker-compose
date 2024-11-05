@@ -9,13 +9,13 @@ El objetivo de esta práctica es configurar y ejecutar contenedores de PostgreSQ
 - Conocimientos básicos sobre contenedores y Docker.
 
 ## 3. Creación del archivo `docker-compose.yml`
-Se creó un archivo YAML (`docker-compose.yml`) para definir los servicios de PostgreSQL y pgAdmin. La configuración es la siguiente:
+Se creó un archivo YML (`docker-compose.yml`) para definir los servicios de PostgreSQL y pgAdmin. La configuración es la siguiente:
 
 ![carpeta docker](archivo.jpg)
 
 ### Contenido del archivo `docker-compose.yml`
 
-# yaml
+# yml
 services:
   postgres:
     image: postgres:latest
