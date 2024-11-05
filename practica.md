@@ -1,4 +1,4 @@
-# Informe de Práctica: Configuración de PostgreSQL y pgAdmin con Docker Compose
+# Informe de Práctica: Configuración de PostgreSQL y pgAdmin con Docker Compose MATEO GALAN
 
 ## 1. Objetivo
 El objetivo de esta práctica es configurar y ejecutar contenedores de PostgreSQL y pgAdmin usando Docker Compose. Este enfoque permite gestionar
